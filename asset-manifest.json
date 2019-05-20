@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/voxygen/static/css/main.19393e92.chunk.css",
+    "main.js": "/voxygen/static/js/main.bb0944b2.chunk.js",
+    "main.js.map": "/voxygen/static/js/main.bb0944b2.chunk.js.map",
+    "runtime~main.js": "/voxygen/static/js/runtime~main.0d95842e.js",
+    "runtime~main.js.map": "/voxygen/static/js/runtime~main.0d95842e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/voxygen/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/voxygen/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/voxygen/index.html",
+    "precache-manifest.5882267642cbaed8d0f6edcd2025029c.js": "/voxygen/precache-manifest.5882267642cbaed8d0f6edcd2025029c.js",
+    "service-worker.js": "/voxygen/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/voxygen/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/voxygen/static/media/logo.5d5d9eef.svg"
+  }
+}
